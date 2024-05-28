@@ -28,7 +28,8 @@ Google Query Sheet
 SELECT* FROM TABLE 1
 WHERE CONDITION= MET
 
-![](yali_courses Right of women and grils.jpg)
+![](yali_courses%20Right%20of%20women%20and%20grils.png)
+
 
 | Heading1 | Heading2 | Heading3 |
 |----------|----------|----------|
